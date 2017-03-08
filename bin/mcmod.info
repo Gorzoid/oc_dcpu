@@ -1,0 +1,16 @@
+[
+{
+  "modid": "oc-dcpu",
+  "name": "Example Mod",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Gorzoid"],
+  "credits": "Me and the spec on lucaspiller's github",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
